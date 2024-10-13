@@ -21,7 +21,9 @@
 ![image](https://github.com/elementaryrock/jiocinema4k/assets/109026282/d6819046-765e-45dd-b3cf-64a5ddbe35f4)
 
 5. Repeat steps 2 and 3 and write the following
-   
+   ![image](https://github.com/user-attachments/assets/6f7ce427-7160-4c1d-b2a7-61761a6b6757)
+
+Note :- The old method of redirecting hst264_web_premium -> jc_androidtv_premium  no longer works (so pls avoid the image shown below and follow step 5)
    ![image](https://github.com/elementaryrock/jiocinema4k/assets/109026282/3ec35aaf-1398-4af7-b7b2-6eacb281bfcb)
 
 Congrats🥳, now enjoy your favourite content in Ultra HD (want to test, [click here](https://www.jiocinema.com/movies/minions-the-rise-of-gru/3961133))
